@@ -1,0 +1,24 @@
+{
+  "name": "webpackDemo",
+  "version": "1.0.0",
+  "description": "webpack学习笔记",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gxlinzhengning/webpackDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gxlinzhengning/webpackDemo/issues"
+  },
+  "homepage": "https://github.com/gxlinzhengning/webpackDemo#readme",
+  "devDependencies": {
+    "webpack": "^4.41.1",
+    "webpack-cli": "^3.3.9"
+  }
+}
